@@ -6,6 +6,10 @@ Converts svg to ico with:
 - a 48x48 png
 - a 256x256 png
 
+# Reminder
+
+icos are just a series of pngs
+
 # Dependencies
 
 - rsvg-convert

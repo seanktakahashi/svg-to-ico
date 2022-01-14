@@ -1,3 +1,4 @@
+#!/bin/bash
 if [ $# -eq 0 ]; then
   echo "Usage: svg-to-ico.bash <icon.svg>"
   exit
